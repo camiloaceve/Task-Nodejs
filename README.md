@@ -13,4 +13,4 @@ npm run build
 npm start
 ```
 
-Now you can visit: <a target="_blank" href="http://localhost:4001">http://localhost:4001</a>
+Now you can visit: <a target="_blank" href="https://task-kmi.herokuapp.com/">https://task-kmi.herokuapp.com/</a>
