@@ -4,12 +4,11 @@ This is a Multi page application using nodejs mongodb and handlebars
 
 #### Requirements
 
-- You need mongodb installed and running on your computer. or alternatively you can use docker
+- You need mongodb installed and running on your computer
 
 ```bash
-git clone https://github.com/FaztWeb/express-mongodb-crud
-cd express-mongodb-crud
-npm install
+cd Task-node js
+npm i
 npm run build
 npm start
 ```
