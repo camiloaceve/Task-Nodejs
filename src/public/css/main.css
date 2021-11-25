@@ -1,3 +1,10 @@
 .bg-black {
   background-color: #111111 !important;
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #111111;
+  color: white;
+}
